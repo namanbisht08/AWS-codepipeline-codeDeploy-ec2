@@ -1,3 +1,3 @@
 #!/bin/bash
-cd /myApp
+cd /home/ubuntu/myApp
 pm2  restart app.js
